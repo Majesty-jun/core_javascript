@@ -5,4 +5,5 @@
 - [x] Variables
 - [x] Strict Mode
 - [x] Global This
+- [x] Data Types
 
