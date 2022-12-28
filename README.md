@@ -3,5 +3,5 @@
 
 - [x] Code Structure
 - [x] Variables
-- [ ] Strict Mode
+- [x] Strict Mode
 
