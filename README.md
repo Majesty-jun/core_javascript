@@ -11,3 +11,4 @@
 - [x] Operations (비교 연산자) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/07-2.operations.js)
 - [x] Condition (if문과 ?) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/08-1.condition.js)
 - [x] Condition (논리 연산자) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/08-2.condition.js)
+- [x] Condition (Swtich문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/08-3.condition.js)
