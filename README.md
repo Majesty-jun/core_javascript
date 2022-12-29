@@ -7,5 +7,6 @@
 - [x] Global This [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/04.globalThis.js)
 - [x] Data Types [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/05.dataType.js)
 - [x] Type Conversion [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/06.typeConversion.js)
-- [x] Operations [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/07.operations.js)
+- [x] Operations [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/07-1.operations.js)
+- [x] Comparison Operations [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/07-2.operations.js)
 
