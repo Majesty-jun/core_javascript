@@ -16,3 +16,4 @@
 - [x] Loop (while문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-1.loop.js)
 - [x] Loop (do ~ while문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-2.loop.js)
 - [x] Loop (for문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-3.loop.js)
+- [x] Loop (for ~ in문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-4.loop.js)
