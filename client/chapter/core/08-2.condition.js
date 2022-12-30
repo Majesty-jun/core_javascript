@@ -36,16 +36,16 @@ let whichTruthy = false || '' || [2,3].length || {thisIsTruthy:true};
 let userName = prompt("사용자 이름을 입력해 주세요.", "");
 let message;
 
-if (userName.toLowerCase() === 'admin') {
+if (userName?.toLowerCase() === 'admin') {
   let password = prompt('비밀번호를 입력해 주세요.', "");
-  if (password.toLowerCase() === 'themaster') {
+  if (password?.toLowerCase() === 'themaster') {
     console.log('환영합니다!');
   } else if (password === '' || password === null) {
     console.log('canceled');
   } else {
     console.log('Wrong Password');
   }
-} else if (userName === '' || userName === null) {
+} else if (userName.replace(/\s*/g,'') === '' || userName === null) {
   console.log('canceled');
 } else {
   console.log("i don't know you");
