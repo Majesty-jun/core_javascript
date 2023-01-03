@@ -18,3 +18,4 @@
 - [x] Loop (for문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-3.loop.js)
 - [x] Loop (for ~ in문) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-4.loop.js)
 - [x] Loop (for ~ of문, Object.entries 학습) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/09-5.loop.js)
+- [x] Function [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/10-1.function.js)
