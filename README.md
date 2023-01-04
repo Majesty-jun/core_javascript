@@ -27,3 +27,5 @@
 - [x] Function (함수표현식, arguments) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/10-2.function.js)
 - [x] Function (화살표 함수) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/10-3.function.js)
 - [x] Function (재귀 함수) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/10-4.function.js)
+---
+- [x] Object (객체와 구조 분해 할당) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/11-1.object.js)
