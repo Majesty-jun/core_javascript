@@ -31,3 +31,4 @@
 - [x] Object (객체와 구조 분해 할당) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/11-1.object.js)
 - [x] Object (객체 참조, 복사) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/11-2.object.js)
 - [x] Object (가비지 컬렉션) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/11-3.object.js)
+- [x] Object (this) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/11-4.object.js)
