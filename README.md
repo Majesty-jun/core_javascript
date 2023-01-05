@@ -35,3 +35,5 @@
 ---
 - [x] Closure [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/12-1.closure.js)
 - [x] Closure (예시) [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/12-2.closure.js)
+---
+- [x] Optional Chaining [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/13.optionalChaining.js)
