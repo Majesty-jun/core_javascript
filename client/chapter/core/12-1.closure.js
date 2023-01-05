@@ -9,28 +9,24 @@
 
 function first() {
   let x = 10;
-  function second() {
+ 
+  return () => {
     let y = 30;
-  }
-  return second;
+    return x + y;
+  };
 }
 
 const value = first();
 
 function number() {
   let count = 0;
-
-  function inner() {
-    return ++count;
-  }
-
-  return inner;
+  return () => ++count;
 }
 
 const counter = number();
 
 
-// 클로저 사용 이유 : 전역의 오염을 막기 위해.
+// 클로저 사용 이유 : 전역의 오염을 막기 위해. 변수를 보호하기 위해.
 
 // 모든 함수에는 실행 컨텍스트가 있습니다. 실행 컨텍스트는 해당 함수 내의 변수와 
 // 해당 부모 환경에 대한 참조를 의미하는 환경으로 구성됩니다. 상위 환경에 대한 참조는 
