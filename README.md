@@ -43,3 +43,5 @@
 - [x] Number [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/15.number.js)
 ---
 - [x] String [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/16.string.js)
+---
+- [x] Array [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/17.array.js)
