@@ -46,3 +46,5 @@
 ---
 - [x] Array [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/17.array.js)
 - [x] Array Methods [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/18.arrayMethod.js)
+---
+- [x] Try ... Catch [바로가기](https://github.com/Majesty-jun/core_javascript/blob/01.core/client/chapter/core/19.tryCatch.js)
