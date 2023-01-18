@@ -1,4 +1,4 @@
-import { insertLast, xhrData, xhrPromise } from "./lib/index.js";
+import { insertLast, xhrData, xhrPromise, jjundae, delayP } from "./lib/index.js";
 
 
 /* 
@@ -20,4 +20,10 @@ xhrPromise.get('https://jsonplaceholder.typicode.com/users/1')
 .catch(err => console.log(err))
  */
 
+async function render() {
+  await delayP(2000);
+  let response = await jjundae.get('https://jsonplaceholder.typicode.com/users/1');
+  console.log(response.data);
+}
 
+render();

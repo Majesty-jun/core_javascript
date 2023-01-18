@@ -73,3 +73,35 @@ delayP()
 .then(res => console.log(res))
 .catch(err => console.log(err))
  */
+
+
+// async : 일반 함수를 promise를 반환하는 함수로 만든다.
+// await : 1. promise가 반환하는 result를 가져오는 역할.
+//         2. 코드 실행 흐름 제어
+
+async function delayA() {
+  return '완료'
+}
+
+let result = await delayA();
+
+async function move() {
+  try {
+    await delayP()
+    first.style.top = '-100px';
+    await delayP()
+    first.style.transform = 'rotate(360deg)';
+    await delayP()
+    first.style.top = '0px';
+    await delayP()
+    second.style.left = '100px';
+    await delayP()
+    second.style.left = '0px';
+  }catch(err) {
+    console.log(err);
+  }
+}
+
+move();
+// console.log(result);
+
