@@ -173,7 +173,7 @@ export function xhrPromise(options = {}) {
       }else {
         reject('error입니다.');
       }
-  })
+    })
   })
 }
 

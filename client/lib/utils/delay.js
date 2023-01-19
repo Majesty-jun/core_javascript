@@ -102,6 +102,6 @@ async function move() {
   }
 }
 
-move();
+// move();
 // console.log(result);
 
